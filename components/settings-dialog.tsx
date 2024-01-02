@@ -7,7 +7,7 @@ const endpointList = [
   {
     id: 1,
     name: "Solana",
-    endpoint: "https://api.devnet.solana.com/",
+    endpoint: "https://api.mainnet-beta.solana.com",
   },
 ];
 
